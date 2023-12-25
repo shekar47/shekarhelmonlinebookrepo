@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  onlinebookstorechart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-25T09:00:43.49271592Z"
+    description: A Helm chart for Kubernetes
+    digest: 4ed778a823f70d28f30a3d3b9f362fbb431951b5d702755c18db9312adc1b793
+    name: onlinebookstorechart
+    type: application
+    urls:
+    - https://github.com/shekar47/shekarhelmonlinebookrepo.git/onlinebookstorechart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-25T09:00:43.491869188Z"
